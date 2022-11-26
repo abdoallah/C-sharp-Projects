@@ -43,6 +43,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
+            },
+            "hangfire": {
+              "target": "Package",
+              "version": "[1.7.32, )"
             }
           },
           "imports": [
